@@ -1,4 +1,6 @@
-*.gitignore
+INTERVIEW_TIPS.txt
+JAVA_HOME.md
+TO_DO.txt
 
 .idea/
 .git/
