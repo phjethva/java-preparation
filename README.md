@@ -1,6 +1,7 @@
 # Java Preparation
 
-----------
+> [!IMPORTANT]
+> This repository is still under development.
 
 ## JAVA Commands
 
@@ -23,8 +24,6 @@ Class   ->  Test t = new Test();
 Compile ->  javac Test.javac
 Run     ->  java Test
 ```
-
-----------
 
 ## Java Syllabus
 
@@ -96,5 +95,3 @@ Run     ->  java Test
             - Its constructors,
             - Synchronized or non synchronized (required Thread safety or not?),
             - Does frequent operation a search operation?
-
-----------
